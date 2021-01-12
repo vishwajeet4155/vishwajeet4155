@@ -14,7 +14,7 @@
 - 📫 How to reach me **vishwajeetmangale@gmail.com**
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
-<IMG SRC="123.jpj">
+<IMG SRC="img.jpj">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/vishwajeet mangale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vishwajeet mangale" height="30" width="40" /></a>
