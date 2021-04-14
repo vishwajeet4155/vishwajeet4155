@@ -12,8 +12,7 @@
 - 💬 Ask me about **webdeveloping**
 
 - 📫 How to reach me **vishwajeetmangale@gmail.com**
-- highi = 5.7
-- weight = 60
+
 \
 <IMG SRC="img.jpj">
 <h3 align="left">Connect with me:</h3>
