@@ -12,8 +12,7 @@
 - 💬 Ask me about **webdeveloping**
 
 - 📫 How to reach me **vishwajeetmangale@gmail.com**
-
-- ⚡ Fun fact **I THINK I AM FUNNY**
+\
 <IMG SRC="img.jpj">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
